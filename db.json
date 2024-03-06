@@ -4,7 +4,7 @@
         {"id": 2, "name": "Song", "role": "admin"},
         {"id": 3, "name": "Wong", "role": "visitor"}
     ],
-    "catagories": [
+    "categories": [
         {"id": 1, "name": "A Cup of JAVA", "path": "/java"},
         {"id": 2, "name": "Heroes Never Die", "path": "/hero"},
         {"id": 3, "name": "Conscript Ready", "path": "/conscript"}
