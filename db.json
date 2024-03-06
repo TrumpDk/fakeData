@@ -8,5 +8,12 @@
         {"id": 1, "name": "A Cup of JAVA", "path": "/java"},
         {"id": 2, "name": "Heroes Never Die", "path": "/hero"},
         {"id": 3, "name": "Conscript Ready", "path": "/conscript"}
+    ],
+    "java": [
+        {"id": 1, "category": "food"},
+        {"id": 2, "category": "character"},
+        {"id": 3, "category": "car"},
+        {"id": 4, "category": "books"},
+        {"id": 5, "category": "others"}
     ]
 }
