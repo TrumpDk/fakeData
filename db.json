@@ -5,8 +5,8 @@
         {"id": 3, "name": "Wong", "role": "visitor"}
     ],
     "catagories": [
-        {"id": 1, "name": "A Cup of JAVA", "path": ""},
-        {"id": 2, "name": "Heroes Never Die", "path": ""},
-        {"id": 3, "name": "Conscript Ready", "path": ""}
+        {"id": 1, "name": "A Cup of JAVA", "path": "/java"},
+        {"id": 2, "name": "Heroes Never Die", "path": "/hero"},
+        {"id": 3, "name": "Conscript Ready", "path": "/conscript"}
     ]
 }
