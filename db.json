@@ -20,5 +20,15 @@
         "id": 1,
         "name": "American Soldier",
         "role": "normal user"
-    }
+    },
+    "javadetail": [
+        {"id": 1, "detailCategory": "EA", "endpointPath": "EA"},
+        {"id": 2, "detailCategory": "Epic", "endpointPath": "Epic"},
+        {"id": 3, "detailCategory": "Steam", "endpointPath": "Steam"},
+        {"id": 4, "detailCategory": "UB Soft", "endpointPath": "EA"},
+        {"id": 5, "detailCategory": "XGP", "endpointPath": "Epic"},
+        {"id": 6, "detailCategory": "Rock Star", "endpointPath": "Steam"},
+        {"id": 7, "detailCategory": "4A", "endpointPath": "EA"},
+        {"id": 8, "detailCategory": "CDPR", "endpointPath": "Steam"}
+    ]
 }
