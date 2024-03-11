@@ -22,13 +22,13 @@
         "role": "normal user"
     },
     "javadetail": [
-        {"id": 1, "detailCategory": "EA", "endpointPath": "EA"},
-        {"id": 2, "detailCategory": "Epic", "endpointPath": "Epic"},
-        {"id": 3, "detailCategory": "Steam", "endpointPath": "Steam"},
-        {"id": 4, "detailCategory": "UB Soft", "endpointPath": "EA"},
-        {"id": 5, "detailCategory": "XGP", "endpointPath": "Epic"},
-        {"id": 6, "detailCategory": "Rock Star", "endpointPath": "Steam"},
-        {"id": 7, "detailCategory": "4A", "endpointPath": "EA"},
-        {"id": 8, "detailCategory": "CDPR", "endpointPath": "Steam"}
+        {"id": 1, "detailCategory": "EA", "description": "this is a long string...", "endpointPath": "EA"},
+        {"id": 2, "detailCategory": "Epic", "description": "this is a long string...", "endpointPath": "Epic"},
+        {"id": 3, "detailCategory": "Steam", "description": "this is a long string...", "endpointPath": "Steam"},
+        {"id": 4, "detailCategory": "UB Soft", "description": "this is a long string...", "endpointPath": "EA"},
+        {"id": 5, "detailCategory": "XGP", "description": "this is a long string...", "endpointPath": "Epic"},
+        {"id": 6, "detailCategory": "Rock Star", "description": "this is a long string...", "endpointPath": "Steam"},
+        {"id": 7, "detailCategory": "4A", "description": "this is a long string...", "endpointPath": "EA"},
+        {"id": 8, "detailCategory": "CDPR", "description": "this is a long string...", "endpointPath": "Steam"}
     ]
 }
